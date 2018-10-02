@@ -1,0 +1,17 @@
+0:a.prop
+1:b.prop
+2:c.prop
+# property A
+
+key1=
+0:elem1 in A
+key2=
+0:elem2 in A
+2:elem2 in C
+key3=
+0:elem3 in A
+1:elem3 in B
+key4=
+0:elem4 in A
+1:elem4 in B
+2:elem4 in C
